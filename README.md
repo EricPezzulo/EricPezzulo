@@ -17,7 +17,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2317ad55?logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2331648c?logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%236c69fd?logo=Prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23e535ab?logo=GraphQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23ff9900?logo=Amazon&logoColor=white)
