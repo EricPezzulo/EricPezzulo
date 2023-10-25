@@ -1,4 +1,4 @@
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScipt-%23efd81d?logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/JavaScript-007ACC?logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23ef4900?logo=Rust&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=Next.js&logoColor=white)
