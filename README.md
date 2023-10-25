@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/JavaScript-007ACC?style=flat-square&logo=typescript&logoColor=black)
+
+I'm a Full Stack Developer who loves building with Next.js and SvelteKit.
+![Static Badge](https://img.shields.io/badge/SvelteKit-)
 
 <!--
 **EricPezzulo/EricPezzulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
