@@ -16,7 +16,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-%236c69fd?logo=Prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23e535ab?logo=GraphQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23ff9900?logo=Amazon&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?logo=docker&logoColor=white)
 
 My name is Eric,
