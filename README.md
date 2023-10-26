@@ -33,3 +33,7 @@ Here are some of the things I've built or contributed to over the years.
 | BAS.com | _React, Node.js, PHP, Shopify, Tailwind CSS_   |
 | PetConnect | _Next.js, Node.js, Auth.js, GraphQL, Prisma, MapBox, Tailwind CSS_  |
 | Currency Tracker | _Next.js, Node.js, Tailwind CSS_ |
+
+#### Education
+**Bachelor's of Science**
+State University of New York (SUNY), College at Oneonta, Oneonta                        NY May 2020
