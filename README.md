@@ -28,11 +28,11 @@
 ![tRPC](https://img.shields.io/badge/tRPC-%23398ccb?logo=tRPC&logoColor=white)
 
 
+Full Stack Developer with experience building applications with various stacks. 
+-MERN
+- PostgreSQL Next.js Node PostgreSQL GraphQL
 
-
-My name is Eric,
-I'm a Full Stack Developer who loves building preformant and scalable web applications with Next.js and SvelteKit.
-
+##
 
 <!--
 **EricPezzulo/EricPezzulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
